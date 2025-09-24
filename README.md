@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning: **Full Stack Development, Cloud Technologies**
 - 💼 Open to collaborating on interesting web projects and open-source.
-- 📫 How to reach me: [sujeetkumar365@gmail.com](mailto:sujeetkumar365@gmail.com)
+- 📫 How to reach me: [sujeetkumar365@gmail.com](mailto:sujeetkumar315@gmail.com)
 - 📝 Portfolio: _Add your website/portfolio link here_
 
 ---
