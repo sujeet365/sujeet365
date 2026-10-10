@@ -1,75 +1,84 @@
-<!-- GitHub Profile README for sujeet365 -->
+<div align="center">
+  <h1>Hi, I'm Sujeet Kumar 👋</h1>
+  <p><code>Full-Stack Developer · Tech Enthusiast · Open-Source Contributor</code></p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+thoughtful+web+experiences;Learning+cloud+technologies;Always+curious%2C+always+building" alt="A short introduction" />
+  </p>
+  <p>
+    <a href="https://github.com/sujeet365"><img src="https://img.shields.io/badge/GitHub-sujeet365-161B22?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+    <a href="mailto:sujeetkumar365@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail" alt="Email Sujeet" /></a>
+  </p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Sujeet Kumar</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1F9AFE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<hr>
+
+<table>
+  <tr>
+    <td width="44%">
+      <pre>
++----------------------------------+
+|          SUJEET KUMAR            |
+|----------------------------------|
+|  Handle : sujeet365              |
+|  Focus  : Full-stack development |
+|  Learn  : Cloud technologies     |
+|  Open to: Web & open-source work |
++----------------------------------+
+      </pre>
+    </td>
+    <td width="56%">
+      <pre>
+TECH STACK  --------------------------------
+Languages    Java, JavaScript
+Frontend     HTML, CSS, React
+Backend      Node.js, Spring Boot
+Databases    MongoDB, MySQL
+Tools        Git, VS Code
+
+ABOUT  -------------------------------------
+I enjoy learning by building useful web
+projects and collaborating on open source.
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<h2>🧰 Technologies</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning: **Full Stack Development, Cloud Technologies**
-- 💼 Open to collaborating on interesting web projects and open-source.
-- 📫 How to reach me: [sujeetkumar365@gmail.com](mailto:sujeetkumar315@gmail.com)
-- 📝 Portfolio: _Add your website/portfolio link here_
-
----
-
-## 🚀 Skills & Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
+<h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeet365&show_icons=true&theme=tokyonight" alt="Sujeet's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet365&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujeet365&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sujeet's GitHub statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet365&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Sujeet's GitHub contribution streak" height="165" />
 </p>
 
----
-
-## 📌 Pinned Projects
-
+<h2>📌 Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/sujeet365/HTMLPROJECT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=HTMLPROJECT&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=HTMLPROJECT&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="HTMLPROJECT repository" />
   </a>
   <a href="https://github.com/sujeet365/TodoFrontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=TodoFrontend&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=TodoFrontend&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="TodoFrontend repository" />
   </a>
   <a href="https://github.com/sujeet365/LmsProject">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=LmsProject&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=LmsProject&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="LmsProject repository" />
   </a>
   <a href="https://github.com/sujeet365/fooddeliveryapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=fooddeliveryapp&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujeet365&repo=fooddeliveryapp&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="fooddeliveryapp repository" />
   </a>
 </p>
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sujeetkumar365@gmail.com)
-<!-- Add more social links as needed -->
-
----
-
-<details>
-  <summary>📊 More GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet365&layout=compact&theme=tokyonight" alt="Top Languages" />
-</details>
+<div align="center">
+  <sub>Thanks for visiting my profile — let's build something useful together.</sub>
+</div>
