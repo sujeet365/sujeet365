@@ -14,50 +14,38 @@
 
 <table>
   <tr>
-    <td width="44%">
-      <p align="center"><strong>MY PROFILE PHOTO — ASCII PORTRAIT</strong></p>
-<pre>
-%%%%%%%&&%%%%&&#@###&&&&####&&&#####&&&&&&&&
-%%%%%%%&&%8%%&&#@###&&&&####&&&##&##&&&&&&&&
-&&&&&&&&&8X8%&&#@###&#&%&&#@&&&##%%%%%%8&&&%
-##@@@@@#&8X8%%&#@#####&&&&##&&%####%8888%&&&
-&##@@@##%8OX8%&#@########&##&&&##&#&%%88%%&&
-######@#&8+O8%&#@#####@##&&&###@@#&#%%%%%%&%
-##@#@###&8+O8%&#@######&####&%%8%#@#&&&&&%&%
-####@###&8++X%&#@#####&##&XO+++OOX#@@####%%%
-##@@@###&8+=X%&##@######%+X%%XX%&%%@&&&&&%%%
-%%%%%%%%%8+=O%&&#####&&&+=++O+OXXX8######%%%
-&#####@@#8+=O8&&#@####8XOO+OX8%%XX8&###@#&%%
-#@####@@#8+=+8%&#@#####&8XXXXX8%%8%####@#&8%
-&####@@#&8O+O8%&&##&####O88%%8%%%&&&#####&8%
-&####@##8OOOX88%&&#&#&%%OOXX%%%%%8888XXXOO++
-8%%%%%%8XOOOOOOXX%XXXOX8XXXX8%%%8+-::::...::
--------:::::=O+8OXOXX+88XOOOXX888OO8++--::::
------------+O8O8O8XO8+8%XOO++OOXO8O8X8X+-:::
-::::::::::-OO8X8OXXO8+88%X++OXOX88O%O8XXX=:.
-----:::::-+XXX%%OXX+8+XOX8XOO888O8+XO%X%%X--
-:::::-::-=XO8%&%XXXO8+XOO8OO88O%X8O88%%%%8=.
---::::::-+8O%8&%8OXOX+8XO8OX8X+X8OX%8#&8%8X-
-----==--+X8O%8&%%OXO8OXXO8O88XO8X88X%&&8%8X-
-</pre>
-      <p align="center"><sub>Portrait rendered from my GitHub profile photo using ASCII characters</sub></p>
+    <td width="38%">
+      <p align="center"><strong>MY GITHUB PROFILE PHOTO</strong></p>
+      <p align="center">
+        <a href="https://github.com/sujeet365">
+          <img src="https://avatars.githubusercontent.com/u/190869800?v=4" alt="Sujeet's GitHub profile photo" width="220" />
+        </a>
+      </p>
     </td>
-    <td width="56%">
+    <td width="62%">
       <pre>
+PROFILE  -----------------------------------
+Name      Sujeet Kumar Rao
+Username  sujeet365
+Focus     Full-stack development
+Learning  Cloud technologies
+
 TECH STACK  --------------------------------
 Languages    Java, JavaScript
 Frontend     HTML, CSS, React
 Backend      Node.js, Spring Boot
 Databases    MongoDB, MySQL
 Tools        Git, VS Code
-
-ABOUT  -------------------------------------
-I enjoy learning by building useful web
-projects and collaborating on open source.
       </pre>
     </td>
   </tr>
 </table>
+
+<h2 align="center">My Profile Photo — Made with Characters</h2>
+<p align="center">
+  <img src="./assets/sujeet-ascii-portrait.png" alt="Sujeet's GitHub profile photo recreated with colored ASCII characters" width="480" />
+</p>
+<p align="center"><sub>Character-art version of the same photo shown above.</sub></p>
 
 <h2>🧰 Technologies</h2>
 <p>
