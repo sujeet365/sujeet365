@@ -18,7 +18,7 @@
       <p align="center"><strong>MY GITHUB PROFILE PHOTO</strong></p>
       <p align="center">
         <a href="https://github.com/sujeet365">
-          <img src="https://avatars.githubusercontent.com/u/190869800?v=4" alt="Sujeet's GitHub profile photo" width="220" />
+          <img src="./assets/sujeet-ascii-portrait.png" alt="Sujeet's GitHub profile photo recreated with colored characters" width="280" />
         </a>
       </p>
     </td>
@@ -40,12 +40,6 @@ Tools        Git, VS Code
     </td>
   </tr>
 </table>
-
-<h2 align="center">My Profile Photo — Made with Characters</h2>
-<p align="center">
-  <img src="./assets/sujeet-ascii-portrait.png" alt="Sujeet's GitHub profile photo recreated with colored ASCII characters" width="480" />
-</p>
-<p align="center"><sub>Character-art version of the same photo shown above.</sub></p>
 
 <h2>🧰 Technologies</h2>
 <p>
